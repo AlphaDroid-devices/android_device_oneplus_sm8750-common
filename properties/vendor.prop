@@ -134,6 +134,7 @@ debug.graphics.game_default_frame_rate.disabled=0
 debug.sf.auto_latch_unsignaled=0
 debug.sf.early.app.duration.144=10333333
 debug.sf.early.app.duration.60=16666666
+debug.sf.disable_backpressure=1
 debug.sf.early.app.duration=13666666
 debug.sf.earlyGl.app.duration.144=10333333
 debug.sf.earlyGl.app.duration.60=16666666
